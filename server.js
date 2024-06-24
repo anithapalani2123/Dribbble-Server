@@ -13,7 +13,7 @@ const techCategories = {
       "cards": [
         {
           "id": 1,
-          "image_url": "http://localhost:3006/images/dis1.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/dis1.jpg",
           "title": "Exploring New Tech",
           "views": 1500,
           "likes": 250
@@ -25,55 +25,55 @@ const techCategories = {
       "cards": [
         {
           "id": 21,
-          "image_url": "http://localhost:3006/images/anim2.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim2.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 22,
-          "image_url": "http://localhost:3006/images/anim3.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim3.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 23,
-          "image_url": "http://localhost:3006/images/anim4.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim4.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 24,
-          "image_url": "http://localhost:3006/images/anim5.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim5.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 25,
-          "image_url": "http://localhost:3006/images/anim6.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim6.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 26,
-          "image_url": "http://localhost:3006/images/anim7.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim7.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 27,
-          "image_url": "http://localhost:3006/images/anim8.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim8.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 28,
-          "image_url": "http://localhost:3006/images/anim9.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim9.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
         },{
           "id": 29,
-          "image_url": "http://localhost:3006/images/anim10.gif",
+          "image_url": "https://dribbble-server.vercel.app/images/anim10.gif",
           "title": "Tech Animation Designs",
           "views": 1200,
           "likes": 200
@@ -85,65 +85,65 @@ const techCategories = {
       "cards": [
         {
           "id": 31,
-          "image_url": "http://localhost:3006/images/brand1.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/brand1.jpg",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 32,
-          "image_url": "http://localhost:3006/images/brand2.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/brand2.jpg",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 33,
-          "image_url": "http://localhost:3006/images/brand3.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand3.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 34,
-          "image_url": "http://localhost:3006/images/brand4.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand4.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },{
           "id": 35,
-          "image_url": "http://localhost:3006/images/brand5.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/brand5.jpg",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         }
         ,{
           "id": 36,
-          "image_url": "http://localhost:3006/images/brand6.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand6.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },{
           "id": 37,
-          "image_url": "http://localhost:3006/images/brand7.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/brand7.jpg",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },{
           "id": 38,
-          "image_url": "http://localhost:3006/images/brand8.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand8.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },{
           "id": 39,
-          "image_url": "http://localhost:3006/images/brand9.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand9.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
         },{
           "id": 40,
-          "image_url": "http://localhost:3006/images/brand10.png",
+          "image_url": "https://dribbble-server.vercel.app/images/brand10.png",
           "title": "Tech Branding",
           "views": 2500,
           "likes": 400
@@ -155,67 +155,67 @@ const techCategories = {
       "cards": [
         {
           "id": 41,
-          "image_url": "http://localhost:3006/images/ima.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/ima.jpg",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 42,
-          "image_url": "http://localhost:3006/images/ima1.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/ima1.jpg",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 43,
-          "image_url": "http://localhost:3006/images/ima2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima2.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 44,
-          "image_url": "http://localhost:3006/images/ima3.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima3.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 45,
-          "image_url": "http://localhost:3006/images/ima4.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/ima4.jpg",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 46,
-          "image_url": "http://localhost:3006/images/ima5.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/ima5.jpg",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 47,
-          "image_url": "http://localhost:3006/images/ima6.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima6.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 48,
-          "image_url": "http://localhost:3006/images/ima7.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima7.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 49,
-          "image_url": "http://localhost:3006/images/ima8.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/ima8.jpg",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 50,
-          "image_url": "http://localhost:3006/images/ima9.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima9.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
         },{
           "id": 51,
-          "image_url": "http://localhost:3006/images/ima10.png",
+          "image_url": "https://dribbble-server.vercel.app/images/ima10.png",
           "title": "Tech Illustrations",
           "views": 1500,
           "likes": 250
@@ -228,21 +228,21 @@ const techCategories = {
       "cards": [
         {
           "id": 61,
-          "image_url": "http://localhost:3006/images/mob1.png",
+          "image_url": "https://dribbble-server.vercel.app/images/mob1.png",
           "title": "Mobile Tech",
           "views": 1700,
           "likes": 280
         },
         {
           "id": 62,
-          "image_url": "http://localhost:3006/images/mob2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/mob2.png",
           "title": "Smartphone Innovations",
           "views": 2200,
           "likes": 390
         },
         {
           "id": 63,
-          "image_url": "http://localhost:3006/images/mob3.png",
+          "image_url": "https://dribbble-server.vercel.app/images/mob3.png",
           "title": "Mobile App Development",
           "views": 1600,
           "likes": 260
@@ -254,21 +254,21 @@ const techCategories = {
       "cards": [
         {
           "id": 71,
-          "image_url": "http://localhost:3006/images/print1.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/print1.jpg",
           "title": "Print Technology",
           "views": 1600,
           "likes": 260
         },
         {
           "id": 72,
-          "image_url": "http://localhost:3006/images/print2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/print2.png",
           "title": "3D Printing",
           "views": 2900,
           "likes": 470
         },
         {
           "id": 73,
-          "image_url": "http://localhost:3006/images/print3.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/print3.jpg",
           "title": "Print Design",
           "views": 1500,
           "likes": 250
@@ -280,35 +280,35 @@ const techCategories = {
       "cards": [
         {
           "id": 81,
-          "image_url": "http://localhost:3006/images/pd1.png",
+          "image_url": "https://dribbble-server.vercel.app/images/pd1.png",
           "title": "Tech Product Design",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 82,
-          "image_url": "http://localhost:3006/images/pd2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/pd2.png",
           "title": "Tech Product Design",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 83,
-          "image_url": "http://localhost:3006/images/pd3.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/pd3.jpg",
           "title": "Tech Product Design",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 84,
-          "image_url": "http://localhost:3006/images/pd4.png",
+          "image_url": "https://dribbble-server.vercel.app/images/pd4.png",
           "title": "Tech Product Design",
           "views": 2500,
           "likes": 400
         },
         {
           "id": 85,
-          "image_url": "http://localhost:3006/images/pd55.png",
+          "image_url": "https://dribbble-server.vercel.app/images/pd55.png",
           "title": "Tech Product Design",
           "views": 2500,
           "likes": 400
@@ -321,28 +321,28 @@ const techCategories = {
       "cards": [
         {
           "id": 91,
-          "image_url": "http://localhost:3006/images/typo1.jpg",
+          "image_url": "https://dribbble-server.vercel.app/images/typo1.jpg",
           "title": "Tech Typography",
           "views": 1500,
           "likes": 250
         },
         {
           "id": 92,
-          "image_url": "http://localhost:3006/images/typo2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/typo2.png",
           "title": "Digital Fonts",
           "views": 3000,
           "likes": 500
         },
         {
           "id": 93,
-          "image_url": "http://localhost:3006/images/typo3.png",
+          "image_url": "https://dribbble-server.vercel.app/images/typo3.png",
           "title": "Typography in Tech",
           "views": 1200,
           "likes": 200
         },
         {
           "id": 94,
-          "image_url": "http://localhost:3006/images/typo4.png",
+          "image_url": "https://dribbble-server.vercel.app/images/typo4.png",
           "title": "Typography in Tech",
           "views": 1200,
           "likes": 200
@@ -354,35 +354,35 @@ const techCategories = {
       "cards": [
         {
           "id": 101,
-          "image_url": "http://localhost:3006/images/web1.png",
+          "image_url": "https://dribbble-server.vercel.app/images/web1.png",
           "title": "Modern Web Design",
           "views": 1500,
           "likes": 250
         },
         {
           "id": 102,
-          "image_url": "http://localhost:3006/images/web2.png",
+          "image_url": "https://dribbble-server.vercel.app/images/web2.png",
           "title": "Website Development",
           "views": 3000,
           "likes": 500
         },
         {
           "id": 103,
-          "image_url": "http://localhost:3006/images/web3.png",
+          "image_url": "https://dribbble-server.vercel.app/images/web3.png",
           "title": "Responsive Design",
           "views": 1200,
           "likes": 200
         },
         {
           "id": 104,
-          "image_url": "http://localhost:3006/images/web4.png",
+          "image_url": "https://dribbble-server.vercel.app/images/web4.png",
           "title": "Responsive Design",
           "views": 1200,
           "likes": 200
         },
         {
           "id": 105,
-          "image_url": "http://localhost:3006/images/web5.png",
+          "image_url": "https://dribbble-server.vercel.app/images/web5.png",
           "title": "Responsive Design",
           "views": 1200,
           "likes": 200
@@ -391,11 +391,12 @@ const techCategories = {
     }
   ]
 };
+
 const specialFilter1 = {
   "Following": [
     {
       "id": 101,
-      "image_url": "http://localhost:3006/images/ima4.jpg",
+      "image_url": "https://dribbble-server.vercel.app/images/ima4.jpg",
       "title": "Following Tech Trends",
       "views": 1300,
       "likes": 230
@@ -407,43 +408,40 @@ const specialFilter2 = {
   "Popular": [
     {
       "id": 201,
-      "image_url": "http://localhost:3006/images/brand1.jpg",
+      "image_url": "https://dribbble-server.vercel.app/images/brand1.jpg",
       "title": "Popular Tech",
       "views": 1800,
       "likes": 300
     }
-   
   ]
 };
+
 const specialFilter3 = {
   "NewAndNoteworthy": [
     {
       "id": 201,
-      "image_url": "http://localhost:3006/images/print1.jpg",
+      "image_url": "https://dribbble-server.vercel.app/images/print1.jpg",
       "title": "Popular Tech",
       "views": 1800,
       "likes": 300
     }
-   
   ]
 };
-
 
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/image/:imagename', (req, res) => {
-  res.sendFile(path.join(__dirname, `public/${req.params.imagename}`));
+  res.sendFile(path.join(__dirname, 'public', req.params.imagename));
 });
 
 app.get('/api/categories', (req, res) => {
   console.log('Categories requested');
   res.json(techCategories);
-  
 });
+
 app.get('/api/following', (req, res) => {
   console.log('Following requested');
   res.json(specialFilter1);
-  
 });
 
 app.get('/api/popular', (req, res) => {
@@ -456,6 +454,5 @@ app.get('/api/newAndNoteworthy', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
+  console.log(Server running at http://localhost:${port});
 });
-
