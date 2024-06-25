@@ -22,22 +22,9 @@ const techCategories = {
     },
     {
       "name": "Animation",
-      "cards": [
-        {
-          "id": 21,
-          "image_url": "https://dribbble-server.vercel.app/images/animm1.jpg",
-          "title": " Animation Designs",
-          "views": "1.2k",
-          "likes": 200
-        },{
+      "cards": [{
           "id": 22,
           "image_url": "https://dribbble-server.vercel.app/images/anim3.gif",
-          "title": " Animation Designs",
-          "views": "1.2k",
-          "likes": 200
-        },{
-          "id": 23,
-          "image_url": "https://dribbble-server.vercel.app/images/anim4.gif",
           "title": " Animation Designs",
           "views": "1.2k",
           "likes": 200
@@ -62,12 +49,6 @@ const techCategories = {
         },{
           "id": 27,
           "image_url": "https://dribbble-server.vercel.app/images/anim8.gif",
-          "title": " Animation Designs",
-          "views": "1.2k",
-          "likes": 200
-        },{
-          "id": 28,
-          "image_url": "https://dribbble-server.vercel.app/images/anim9.gif",
           "title": " Animation Designs",
           "views": "1.2k",
           "likes": 200
